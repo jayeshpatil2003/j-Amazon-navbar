@@ -1,0 +1,25 @@
+*{
+    background-color: bisque;
+}
+p{
+    color: rgb(121, 121, 19);
+
+}
+ h1{
+   text-align: center; 
+   text-transform: capitalize;
+ }
+ a:hover{
+ background-color: rgb(120, 120, 218);
+ }
+ .box{
+    margin: 20px;
+    padding: 20px ;
+    text-align: center;
+    text-transform: capitalize;
+    height: 100px;
+    width: 100px;
+ background-color:rgb(169, 169, 241);
+ border: 2px solid;
+ border-radius: 23px;
+ }

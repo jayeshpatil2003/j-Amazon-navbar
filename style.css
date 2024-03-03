@@ -1,0 +1,22 @@
+*{
+    color: beige;
+}
+button:hover{
+
+    background-color: red ;
+    text-align: center;
+    /* width: 233px; */
+    border: 2px;
+    border-radius: 34px;
+    color: aqua;
+}
+.lorem{
+    color:rgb(68, 31, 102) ;
+}
+.lorem2{
+    column-gap: 3cm;
+    color: rgb(63,13,78);
+    text-transform:capitalize;
+    text-shadow: 233
+    cqw;
+}
